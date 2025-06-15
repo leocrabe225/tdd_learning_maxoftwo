@@ -1,0 +1,8 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. maxoftwo.
+       DATA DIVISION.
+       LINKAGE SECTION.
+
+       PROCEDURE DIVISION.
+
+           EXIT PROGRAM.
